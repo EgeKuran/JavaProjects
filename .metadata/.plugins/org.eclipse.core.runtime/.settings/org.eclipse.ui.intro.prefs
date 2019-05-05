@@ -1,0 +1,5 @@
+INTRO_THEME=org.eclipse.ui.intro.universal.circles
+eclipse.preferences.version=1
+fontStyle=relative
+org.eclipse.epp.package.java.product_INTRO_THEME=org.eclipse.ui.intro.universal.circles
+org.eclipse.epp.package.java.product_fontStyle=relative

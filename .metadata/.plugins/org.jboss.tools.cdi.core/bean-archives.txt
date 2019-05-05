@@ -1,0 +1,12 @@
+path=C:\Users\egekuran\Desktop\Projects\AdvancedJava\ServletApplications\WebContent\WEB-INF\lib\mysql-connector-java-5.1.40-bin.jar
+size=990927
+archive=0
+path=C:\Users\egekuran\Desktop\Projects\AdvancedJava\EGEKURAN-ADVJAVAFINAL\lib\gson-2.6.2.jar
+size=229650
+archive=0
+path=C:\Users\egekuran\Desktop\Projects\AdvancedJava\ServletApplications\WebContent\WEB-INF\lib\gson-2.6.2.jar
+size=229650
+archive=0
+path=C:\Users\egekuran\Desktop\Projects\AdvancedJava\EGEKURAN-ADVJAVAFINAL\lib\mysql-connector-java-5.1.40-bin.jar
+size=990927
+archive=0

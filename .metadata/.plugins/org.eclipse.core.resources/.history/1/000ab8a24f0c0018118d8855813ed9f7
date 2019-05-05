@@ -1,0 +1,8 @@
+package kuran.ege;
+
+public class Main {
+	public static void main(String[] args) {
+		MyList<Integer> mylist = new MyList<>();
+	}
+
+}

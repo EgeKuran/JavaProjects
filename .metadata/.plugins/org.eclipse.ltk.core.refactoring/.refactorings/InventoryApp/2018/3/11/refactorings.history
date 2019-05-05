@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ConnectionManager.java&apos; to &apos;MySQLQueryTool/src/DAO&apos;&#x0D;&#x0A;- Original project: &apos;InventoryApp&apos;&#x0D;&#x0A;- Destination element: &apos;MySQLQueryTool/src/DAO&apos;&#x0D;&#x0A;- Original element: &apos;dao.ConnectionManager.java&apos;" description="Copy compilation unit" destination="=MySQLQueryTool/src&lt;DAO" element1="/src&lt;dao{ConnectionManager.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1520873647618" units="1" version="1.0"/>
+</session>

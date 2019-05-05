@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtHeight"
+
+        android:hint="Height"
+        android:inputType="" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtWeight"
+
+        android:hint="Weight" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnCompute"
+        android:background="@android:color/holo_blue_dark"
+
+        android:gravity="center"
+        android:text="COMPUTE"
+        android:onClick="clickBtnCompute" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="41dp"
+        android:text="BMI:"
+        android:textSize="18sp"
+        android:id="@+id/txtBmi"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="39dp"
+        android:text="RESULT"
+        android:textSize="18sp"
+        android:id="@+id/txtResult"
+        />
+</LinearLayout>

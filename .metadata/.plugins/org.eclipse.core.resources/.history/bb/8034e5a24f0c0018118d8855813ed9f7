@@ -1,0 +1,11 @@
+package kuran.ege;
+
+public class MyList<T> {
+	private T element;
+	private int size;
+	
+	public  <T> MyList() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

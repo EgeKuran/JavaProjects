@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;main.Box.mySecondType&apos; in &apos;main.Box&apos;&#x0D;&#x0A;- Original project: &apos;2.Lesson-JavaNIO&apos;&#x0D;&#x0A;- Original element: &apos;main.Box.mySecondType&apos;&#x0D;&#x0A;- Getter method name: &apos;getMySecondType&apos;&#x0D;&#x0A;- Setter method name: &apos;setMySecondType&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;mySecondType&apos;" flags="589830" getter="getMySecondType" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;main{Box.java[Box^mySecondType" insertion="2" setter="setMySecondType" stamp="1517938143665" version="1.0" visibility="1"/>
+</session>
